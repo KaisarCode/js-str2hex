@@ -1,6 +1,6 @@
 {
   "name": "kc-str2hex",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "[js] String to hexadecimal.",
   "main": "index.js",
   "repository": {
